@@ -1,0 +1,22 @@
+{
+  "name": "construction_website",
+  "version": "1.0.0",
+  "description": "A website for searching best place and best price of land and its construction cost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kunalrathore06/construction_website.git"
+  },
+  "author": "kunal rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kunalrathore06/construction_website/issues"
+  },
+  "homepage": "https://github.com/kunalrathore06/construction_website#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
